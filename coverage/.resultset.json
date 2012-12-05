@@ -1,0 +1,63 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/Users/koombea/Dropbox/Rails/Proyectos/to_do_list/app/controllers/application_controller.rb": [
+        1,
+        1,
+        null
+      ],
+      "/Users/koombea/Dropbox/Rails/Proyectos/to_do_list/app/helpers/application_helper.rb": [
+        1,
+        null
+      ],
+      "/Users/koombea/Dropbox/Rails/Proyectos/to_do_list/app/helpers/lists_helper.rb": [
+        1,
+        null
+      ],
+      "/Users/koombea/Dropbox/Rails/Proyectos/to_do_list/app/controllers/lists_controller.rb": [
+        1,
+        1,
+        1,
+        1,
+        null,
+        null,
+        1,
+        1,
+        null,
+        null,
+        1,
+        1,
+        1,
+        2,
+        1,
+        null,
+        null,
+        null,
+        1,
+        1,
+        1,
+        1,
+        2,
+        1,
+        null,
+        null,
+        null,
+        1,
+        1,
+        1,
+        2,
+        1,
+        null,
+        null,
+        null
+      ],
+      "/Users/koombea/Dropbox/Rails/Proyectos/to_do_list/app/models/list.rb": [
+        1,
+        1,
+        1,
+        null
+      ]
+    },
+    "timestamp": 1354731238
+  }
+}

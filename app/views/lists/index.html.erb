@@ -1,0 +1,13 @@
+<h2>To Do List</h2>
+
+<%= link_to "New Task", new_list_path, id: "new_link", remote: true %>
+
+<h3>Task to Do</h3>
+<div class = "lists" id = "incomplete_lists">
+  <%= render @incomplete_lists %>
+</div>
+
+<h3>Task Done</h3>
+<div class = "lists" id = "complete_lists">
+  <%= render @complete_lists %>
+</div>
